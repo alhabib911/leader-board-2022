@@ -123,6 +123,15 @@ hr{
     color: #FF4A60;
 }
 
+footer{
+    background-color: #4d4d4d;
+    height: 50px;
+    color: #ffff;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 15px;
+}
+
 /* Media Quaries */
 
 /* Mobile Device */
